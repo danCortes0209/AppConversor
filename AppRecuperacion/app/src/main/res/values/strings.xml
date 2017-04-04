@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppRecuperacion</string>
+    <string name="enter">Introduce tu numero</string>
+    <string name="hex">HexaD</string>
+    <string name="bin">Binario</string>
+    <string name="oct">octal</string>
+    <string name="dec">Decimal</string>
+    <string name="convert">Convertidor :D</string>
+    <string name="res">Resultado: </string>
+    <string name="note">Nota: Para convertir de binario a decimal, tienes que introducir un numero binario</string>
+</resources>
